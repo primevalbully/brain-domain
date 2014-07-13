@@ -2,6 +2,11 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Physics Quiz</title>
+<style type="text/css">
+body {
+	background-color: #399;
+}
+</style>
 </head>
 
 <body>
